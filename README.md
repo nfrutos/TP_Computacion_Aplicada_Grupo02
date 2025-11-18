@@ -204,7 +204,7 @@ Archivos generados (según evidencia del PDF):
 
 Se incluye el archivo correspondiente en el repositorio:
 
-![Diagrama Topológico](./Infografía%20-%20Diagrama%20Topológico.png)
+![Diagrama Topológico](./Infografia_Diagrama_Topologica.png)
 
 > **Figura 1.** Diagrama topológico del entorno implementado (Apache, PHP, MariaDB, SSH y backups automáticos).
 
